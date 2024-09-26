@@ -23,10 +23,15 @@ Clone este repositório em sua máquina local e navegue até o diretório do pro
 
 Em seguida, execute o comando para instalar as dependências necessárias:
 
+```
 npm i
-
+```
+```
 npm run build
-
+```
+```
 cd dist
-
+```
+```
 node main.js
+```
